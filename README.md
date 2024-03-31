@@ -1,3 +1,6 @@
+xen sama welcome 🤗
+
+
 <p align="center">
   <div align="center">
     <a href="https://anikatsu.me/">
@@ -9,7 +12,7 @@
     </a>
   </div>
 
-  <hr />
+  <hr />bh
 
 #### NOTE:
 
